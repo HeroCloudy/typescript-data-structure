@@ -1,0 +1,18 @@
+{
+  "name": "typescript-data-structure",
+  "version": "1.0.0",
+  "description": "基于 TypeScript 语言实现数据结构和算法",
+  "scripts": {
+    "bootstrap": "pnpm i"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.13.1",
+    "@typescript-eslint/parser": "^7.13.1",
+    "eslint": "^9.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  }
+}
